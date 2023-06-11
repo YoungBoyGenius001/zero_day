@@ -1,1 +1,1 @@
-*The project is mandatory*
+**The project is mandatory**
